@@ -1,3 +1,7 @@
+Họ và tên: Đỗ Văn Vinh
+Mã sinh viên: 2121051277
+Nhóm: Thương mại điện tử _07
+# Tải dữ liệu
 import pandas as pd
 df = pd.read_excel('Online Retail.xlsx', sheet_name='Online Retail')
 
